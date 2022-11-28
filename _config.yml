@@ -23,7 +23,7 @@ email: gokoyev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    A member-owned non-profit flying club with a fleet of a few well-maintained, affordably-priced aircraft.
 baseurl: /CFC # the subpath of your site, e.g. /blog
-url: https:/k3it.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# url: https:/k3it.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  k3it
 
 # Build settings
